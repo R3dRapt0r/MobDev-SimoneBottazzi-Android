@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_cloudmk.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/cloudmk.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.weather_project.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_default_miku.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/default_miku.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.weather_project.app-pngs-27:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_stormmk.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/stormmk.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_drizzle.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/drizzle.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_snowy.jpg.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/snowy.jpg"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.weather_project.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_rainy.jpg.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/rainy.jpg"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_rain.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/rain.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/layout_activity_maps.xml.flat",
+        "source": "com.example.weather_project.app-main-34:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.weather_project.app-pngs-27:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.weather_project.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.weather_project.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.weather_project.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.weather_project.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_sunny.jpg.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/sunny.jpg"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_drizzlemk.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/drizzlemk.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_rainmk.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/rainmk.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_cloudy.jpg.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/cloudy.jpg"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_drizzly.jpg.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/drizzly.jpg"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_sunmk.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/sunmk.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.weather_project.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.weather_project.app-pngs-27:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_stormy.jpg.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/stormy.jpg"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.weather_project.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.weather_project.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_cloud.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/cloud.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_snow.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/snow.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.weather_project.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_snowmk.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/snowmk.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.weather_project.app-pngs-27:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.weather_project.app-pngs-27:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.weather_project.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.weather_project.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.weather_project.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.weather_project.app-pngs-27:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/layout_activity_city_list.xml.flat",
+        "source": "com.example.weather_project.app-main-34:/layout/activity_city_list.xml"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.weather_project.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.weather_project.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.weather_project.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_sun.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/sun.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-v24_storm.png.flat",
+        "source": "com.example.weather_project.app-main-34:/drawable-v24/storm.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.weather_project.app-pngs-27:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.weather_project.app-merged_res-32:/layout_fragment_city_detail.xml.flat",
+        "source": "com.example.weather_project.app-main-34:/layout/fragment_city_detail.xml"
+    }
+]

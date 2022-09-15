@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.weather_project.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.example.weather_project.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.weather_project.app-mergeDebugResources-31:/layout/activity_maps.xml",
+        "source": "com.example.weather_project.app-main-34:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.example.weather_project.app-mergeDebugResources-31:/layout/fragment_city_detail.xml",
+        "source": "com.example.weather_project.app-main-34:/layout/fragment_city_detail.xml"
+    },
+    {
+        "merged": "com.example.weather_project.app-mergeDebugResources-31:/layout/activity_city_list.xml",
+        "source": "com.example.weather_project.app-main-34:/layout/activity_city_list.xml"
+    }
+]
